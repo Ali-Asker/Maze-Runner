@@ -9,7 +9,7 @@ Please make sure to execute the Makefile and enter ./mazerunner to start the gam
 **How to Play**
 
 Each maze will have an "S" to indicate your player's start position and an "E" to indicate the exit.
-The goal is to traverse to the end with a small number of moves to reach to the end.
+The goal is to traverse to the end with a small number of moves.
 
 ======================
 
